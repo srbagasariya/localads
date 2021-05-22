@@ -1,2 +1,2 @@
 # localads
-All Local ads
+All Local ad
