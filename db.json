@@ -1,10 +1,22 @@
 {
   "moreapps": [
     {
+      "name": "HD Video Projector Simulator - LIVE Simulator",
+      "iconurl": "https://play-lh.googleusercontent.com/Qh00hfIss_EGTwLQPlrVxX513QX-7I7buNnoVR5DO2brQ396gg6bhQMVLFccWHm7YEZQ=s180-rw",
+      "packageurl": "https://play.google.com/store/apps/details?id=com.hdvideoprojector.wallhdprojector.phoneprojector&hl=en",
+      "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
+    },
+    {
       "name": "Cricket Line Guru : Fast Live Line",
       "iconurl": "https://play-lh.googleusercontent.com/JCpBjA2ZJewv-WIRAt9dJDu5DhsryeWJ2yQh8xRf1s2JJt9ZvAUdtx0wSorSjeQI1KQ=s180-rw",
       "packageurl": "https://play.google.com/store/apps/details?id=com.cricketliveline.cricketexchange.cricketguru&hl=en",
       "bannerurl": "https://play-lh.googleusercontent.com/M92xUcvPay-xPuoM_v8zywe-znC51IAN6qYtyeXqvjq7weuqhlDSrE2xNed6SzDI098=w720-h310-rw"
+    },
+    {
+      "name": "HD Video Projector Simulator - Video Projector HD",
+      "iconurl": "https://play-lh.googleusercontent.com/cR7bZ0ct6mG1GWOxMr7FIUxGTHkzSH0yEAdycEUAsyPJSj--4d3fMVof2zaFw41Pzw=s180-rw",
+      "packageurl": "https://play.google.com/store/apps/details?id=com.liveprojectori.hdprojector.movieprojector&hl=en",
+      "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
     },
     {
       "name": "MP3 Music Downloader | Free Music Downloader",
