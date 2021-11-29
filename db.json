@@ -1,55 +1,9 @@
 {
-  "moreapps": [
+  "ursulavpn": [
     {
-      "name": "GB What's New Latest Version - Status Saver 2021",
-      "iconurl": "https://play-lh.googleusercontent.com/8DYMCVuczjTVGVco8_UQ2ViYTZ-GZ59HLWrlk5puF5O3qt9xQK3OzrU6jXBb_pXOkw=s180-rw",
-      "packageurl": "https://play.google.com/store/apps/details?id=com.gbwhats.gbstatussaver.newwhatstool&hl=en",
-      "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
-    },
-    {
-      "name": "HD Video Projector Simulator - LIVE Simulator",
-      "iconurl": "https://play-lh.googleusercontent.com/Qh00hfIss_EGTwLQPlrVxX513QX-7I7buNnoVR5DO2brQ396gg6bhQMVLFccWHm7YEZQ=s180-rw",
-      "packageurl": "https://play.google.com/store/apps/details?id=com.hdvideoprojector.wallhdprojector.phoneprojector&hl=en",
-      "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
-    },
-    {
-      "name": "HD Video Projector Simulator - Video Projector HD",
-      "iconurl": "https://play-lh.googleusercontent.com/cR7bZ0ct6mG1GWOxMr7FIUxGTHkzSH0yEAdycEUAsyPJSj--4d3fMVof2zaFw41Pzw=s180-rw",
-      "packageurl": "https://play.google.com/store/apps/details?id=com.liveprojectori.hdprojector.movieprojector&hl=en",
-      "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
-    }
-  ],
-"mvbit": [
-   {
-      "name": "GB What's New Latest Version - Status Saver 2021",
-      "iconurl": "https://play-lh.googleusercontent.com/8DYMCVuczjTVGVco8_UQ2ViYTZ-GZ59HLWrlk5puF5O3qt9xQK3OzrU6jXBb_pXOkw=s180-rw",
-      "packageurl": "https://play.google.com/store/apps/details?id=com.gbwhats.gbstatussaver.newwhatstool&hl=en",
-      "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
-    },
-    {
-      "name": "HD Video Projector Simulator - LIVE Simulator",
-      "iconurl": "https://play-lh.googleusercontent.com/Qh00hfIss_EGTwLQPlrVxX513QX-7I7buNnoVR5DO2brQ396gg6bhQMVLFccWHm7YEZQ=s180-rw",
-      "packageurl": "https://play.google.com/store/apps/details?id=com.hdvideoprojector.wallhdprojector.phoneprojector&hl=en",
-      "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
-    },
-    {
-      "name": "HD Video Projector Simulator - Video Projector HD",
-      "iconurl": "https://play-lh.googleusercontent.com/cR7bZ0ct6mG1GWOxMr7FIUxGTHkzSH0yEAdycEUAsyPJSj--4d3fMVof2zaFw41Pzw=s180-rw",
-      "packageurl": "https://play.google.com/store/apps/details?id=com.liveprojectori.hdprojector.movieprojector&hl=en",
-      "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
-    }
-  ],
-  "gbwhats": [
-    {
-      "name": "MVBit : Video Maker, MV master, Magic Effect Video",
-      "iconurl": "https://play-lh.googleusercontent.com/5ABrRy7W4U8a8q7ceyeKx2cB8dC44esSRRDTAmmJVj77RKXvrmZEoPoZdaAVH-yxjm4=s180-rw",
-      "packageurl": "https://play.google.com/store/apps/details?id=com.magicvideo.mvbitsvideostatus.lyricalvideomaker&hl=en",
-      "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
-    },
-    {
-      "name": "HD Video Projector Simulator - LIVE Simulator",
-      "iconurl": "https://play-lh.googleusercontent.com/Qh00hfIss_EGTwLQPlrVxX513QX-7I7buNnoVR5DO2brQ396gg6bhQMVLFccWHm7YEZQ=s180-rw",
-      "packageurl": "https://play.google.com/store/apps/details?id=com.hdvideoprojector.wallhdprojector.phoneprojector&hl=en",
+      "name": "GB What's Version 22.0",
+      "iconurl": "https://play-lh.googleusercontent.com/lVEGQ5RJ77WP7WGmPMkayhSZMEUx_O6BLRLUVSYmoM-aGi8hU4mFzUZE2aXye8Vw0evP=s180-rw",
+      "packageurl": "https://play.google.com/store/apps/details?id=com.gbwhatslatest.gbnewstatus.gbwhatstool&hl=en",
       "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
     },
     {
@@ -61,21 +15,29 @@
   ],
   "jiyaprojector": [
     {
-      "name": "MVBit : Video Maker, MV master, Magic Effect Video",
-      "iconurl": "https://play-lh.googleusercontent.com/5ABrRy7W4U8a8q7ceyeKx2cB8dC44esSRRDTAmmJVj77RKXvrmZEoPoZdaAVH-yxjm4=s180-rw",
-      "packageurl": "https://play.google.com/store/apps/details?id=com.magicvideo.mvbitsvideostatus.lyricalvideomaker&hl=en",
+      "name": "GB What's Version 22.0",
+      "iconurl": "https://play-lh.googleusercontent.com/lVEGQ5RJ77WP7WGmPMkayhSZMEUx_O6BLRLUVSYmoM-aGi8hU4mFzUZE2aXye8Vw0evP=s180-rw",
+      "packageurl": "https://play.google.com/store/apps/details?id=com.gbwhatslatest.gbnewstatus.gbwhatstool&hl=en",
       "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
     },
     {
-      "name": "GB What's New Latest Version - Status Saver 2021",
-      "iconurl": "https://play-lh.googleusercontent.com/8DYMCVuczjTVGVco8_UQ2ViYTZ-GZ59HLWrlk5puF5O3qt9xQK3OzrU6jXBb_pXOkw=s180-rw",
-      "packageurl": "https://play.google.com/store/apps/details?id=com.gbwhats.gbstatussaver.newwhatstool&hl=en",
+      "name": "VPN Proxy All Video Downloader",
+      "iconurl": "https://play-lh.googleusercontent.com/W3QiOHMsweMRBAyj-IvCqnutzqB8xQcraFhsxmlcSqT3zYpOW8Mt61t_tUV3T1dLUYI=s180-rw",
+      "packageurl": "https://play.google.com/store/apps/details?id=com.allvideodownloader.vpndownloader&hl=en",
+      "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
+    }
+  ],
+  "jiyagb": [
+    {
+      "name": "VPN Proxy All Video Downloader",
+      "iconurl": "https://play-lh.googleusercontent.com/W3QiOHMsweMRBAyj-IvCqnutzqB8xQcraFhsxmlcSqT3zYpOW8Mt61t_tUV3T1dLUYI=s180-rw",
+      "packageurl": "https://play.google.com/store/apps/details?id=com.allvideodownloader.vpndownloader&hl=en",
       "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
     },
-    {
-      "name": "HD Video Projector Simulator - LIVE Simulator",
-      "iconurl": "https://play-lh.googleusercontent.com/Qh00hfIss_EGTwLQPlrVxX513QX-7I7buNnoVR5DO2brQ396gg6bhQMVLFccWHm7YEZQ=s180-rw",
-      "packageurl": "https://play.google.com/store/apps/details?id=com.hdvideoprojector.wallhdprojector.phoneprojector&hl=en",
+	{
+      "name": "HD Video Projector Simulator - Video Projector HD",
+      "iconurl": "https://play-lh.googleusercontent.com/cR7bZ0ct6mG1GWOxMr7FIUxGTHkzSH0yEAdycEUAsyPJSj--4d3fMVof2zaFw41Pzw=s180-rw",
+      "packageurl": "https://play.google.com/store/apps/details?id=com.liveprojectori.hdprojector.movieprojector&hl=en",
       "bannerurl": "https://play-lh.googleusercontent.com/8ejxIGrMsKPbZY9nJbblXilHfW564CgPguYLwcWEb2xfFcbeRg485DIw4qmkc0-b8Bg=w2133-h1009-rw"
     }
   ]
